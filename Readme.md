@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DocumentExporter.cs](./CS/Export/DocumentExporter.cs) (VB: [DocumentExporter.vb](./VB/Export/DocumentExporter.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [DocumentImporter.cs](./CS/Import/DocumentImporter.cs) (VB: [DocumentImporter.vb](./VB/Import/DocumentImporter.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to add support for a new file format
 
 
